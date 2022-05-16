@@ -5,7 +5,7 @@ Operating System: Windows10 Home
 OS Build: 19043.1288
 Visual Studio Version: Visual Studio Community 2019 - 16.11.7
 
-Demonstration Video: 
+Demonstration Video: https://youtu.be/jer0R1SY3Xs
 Git Repository: https://github.com/Bosco1020/COMP3015-CW2
 
 
@@ -38,5 +38,5 @@ To reset the fountain, the time value is on a loong where after the fountain has
 
 
 ## Installation Instructions
-To open the project, download the COMP3015_CW2.zip from the Git Hub repository.
+To open the project, download the COMP3015_CW2_v1.0.zip from the Git Hub repository.
 Unzip the file and then run the project_template.exe.
