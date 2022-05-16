@@ -38,5 +38,5 @@ To reset the fountain, the time value is on a loong where after the fountain has
 
 
 ## Installation Instructions
-To open the project, download the - FILE NAME - from the Git Hub repository.
-Unzip the file and then run the - FILE NAME - .exe.
+To open the project, download the COMP3015_CW2.zip from the Git Hub repository.
+Unzip the file and then run the project_template.exe.
